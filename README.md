@@ -1,4 +1,5 @@
 - **Computer Forensics 5250 Graduate Project**
+- **Term Taken: Spring 2021**
 
 
 - **Created a lab for Graduate Research Project**
